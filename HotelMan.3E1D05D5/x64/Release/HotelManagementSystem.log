@@ -1,0 +1,17 @@
+﻿  AdminEntry.cpp
+  CheckOut.cpp
+  CustomerActivityList.cpp
+  CustomerEntry.cpp
+  CustomerJoinActivity.cpp
+  CustomerRoomInfo.cpp
+  dbFunctions.cpp
+  InsertCustomerCheck.cpp
+  MyForm.cpp
+  HireRoom.cpp
+  ShowHotelMoney.cpp
+  ShowRoomsInfo.cpp
+  ShowWorkers.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AdminEntry.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HotelManagementSystem.vcxproj -> C:\Users\90537\Desktop\phyton code\HotelManagementSystem\x64\Release\HotelManagementSystem.exe

@@ -1,0 +1,6 @@
+C:\Users\90537\Desktop\phyton code\HotelManagementSystem\x64\Debug\HotelManagementSystem.vcxproj.AssemblyReference.cache
+C:\Users\90537\Desktop\phyton code\HotelManagementSystem\x64\Debug\HotelManagementSystem.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\90537\Desktop\phyton code\HotelManagementSystem\x64\Debug\HotelManagementSystem.MyForm.resources
+C:\Users\90537\Desktop\phyton code\HotelManagementSystem\x64\Debug\HotelManagementSystem.vcxproj.GenerateResource.cache
+C:\Users\90537\Desktop\phyton code\HotelManagementSystem\x64\Debug\HotelManagementSystem.exe
+C:\Users\90537\Desktop\phyton code\HotelManagementSystem\x64\Debug\HotelManagementSystem.AdminEntry.resources
